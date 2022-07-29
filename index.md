@@ -1,22 +1,24 @@
-10. Interface & Application Programming
-Objectives
-Wk 1
+#H1 10. Interface & Application Programming
+
+**Objectives**
+
+*Wk 1*
 [x] Setup Dev Environment for ESP32 S2
 [x ] Setup NodeJS Dev Environment on your PC
 [ ] Explain the HackOmation quadrant in relation to your final project.
 [ ] Build UI mockups for your Final Project and HTML Layout
-Wk 2
+*Wk 2*
 [ ] Build HTML5 Chat app
 * Draw mockup / layout
 * frame and add id’s to <div>’s
 * Style the page and 
 * wire up the JS code and understand
-Wk 3
+*Wk 3*
 [ ] Build Chat app back-end NodeJS
 * Build NodeJS server side to: 
 * host your ChatApp (Express static HTML)
 * Build / test API endpoints (for: users & messages)
-Wk 4
+*Wk 4*
 [ ] Setup MongoDB datastore & connect via NodeJS
 * Setup MongoDB datastore + mongoose ODM (Object-Document-Manager)
 * Store and recall message data using an API (ex. request top 100 msg)
