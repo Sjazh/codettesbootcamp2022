@@ -1,4 +1,6 @@
-# 10 Interface & Application Programming
+# Codettesbootcamp2022
+
+## 10 Interface & Application Programming
 
 **Objectives**
 
@@ -15,7 +17,9 @@
 *Wk 2*
 
 [] Build HTML5 Chat app
-[]Draw mockup / layout
+
+[] Draw mockup / layout
+
 [] frame and add id’s to <div>’s
 [] Style the page and 
 [] wire up the JS code and understand
