@@ -1,37 +1,37 @@
-## Welcome to Zahira Documentation Github Pages Desktop
+10. Interface & Application Programming
+Objectives
+Wk 1
+[x] Setup Dev Environment for ESP32 S2
+[x ] Setup NodeJS Dev Environment on your PC
+[ ] Explain the HackOmation quadrant in relation to your final project.
+[ ] Build UI mockups for your Final Project and HTML Layout
+Wk 2
+[ ] Build HTML5 Chat app
+* Draw mockup / layout
+* frame and add id’s to <div>’s
+* Style the page and 
+* wire up the JS code and understand
+Wk 3
+[ ] Build Chat app back-end NodeJS
+* Build NodeJS server side to: 
+* host your ChatApp (Express static HTML)
+* Build / test API endpoints (for: users & messages)
+Wk 4
+[ ] Setup MongoDB datastore & connect via NodeJS
+* Setup MongoDB datastore + mongoose ODM (Object-Document-Manager)
+* Store and recall message data using an API (ex. request top 100 msg)
+* Wire up MongoDB to API endpoints
+* Update app-flow to use back-end for Users and “old” messages
+Wk 5
+[ ] Create data-bound widgets to display sensor data
+ * On ESP32 add MQTT client + ArduinoJSON
+ * Send Sensor data to MQTT server (as a JSON object)
+ * Create a DataCard, a Gauge and a time Chart widget on Dashboard (use chat app)
+ * Strategy on DataBinding and Widget updating (Last updated)
+ * User Login/Pw (state persistence)
+[ ] Add Screenshots and description of the process of creation. 
+[ ] Describe the design & programming steps
+[ ] Screenshots or video of your Prototype/app working
+[ ] Describe any errors or problems with the process and how you fixed them. 
+[ ] Include all the files you created for download. 
 
-You can use the [editor on GitHub](https://github.com/Sjazh/codettesbootcamp2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sjazh/codettesbootcamp2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
