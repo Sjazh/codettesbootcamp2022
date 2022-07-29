@@ -56,3 +56,18 @@ Wk 5
   
 [] Include all the files you created for download. 
 
+
+  
+  
+### 10.1 Setup Dev environment ESP32 S2
+#### 10.1.1 What is ESP32?
+
+ESP32, like Arduino, is a development board. That means it has all the features you need to create your projects. ESP32 is a low-powered, low-cost microcontroller (MCU) board, with both Wi-Fi and Bluetooth built in, and is based on a dual-core processor mechanism.
+
+#### 10.1.2 Install ESP32 board in Arduino IDE
+
+There’s an add-on for the Arduino IDE that allows you to program the ESP32 using the Arduino IDE and its programming language.
+
+I used the following instructions to install the ESP32 board in Arduino IDE:
+
+In your Arduino IDE, go to File> Preferences and enter the following into the “Additional Board Manager URLs” field:
