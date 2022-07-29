@@ -5,8 +5,11 @@
 *Wk 1*
 
 [] Setup Dev Environment for ESP32 S2
+
 [] Setup NodeJS Dev Environment on your PC
+
 [] Explain the HackOmation quadrant in relation to your final project.
+
 [] Build UI mockups for your Final Project and HTML Layout
 
 *Wk 2*
