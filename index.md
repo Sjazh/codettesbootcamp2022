@@ -99,9 +99,26 @@ Turns digital 3D models into solid objects by building  them up in layers. The 3
 
   We will be 3D printing with the Anycubic Predator (Deltabot)
   
+  There are two filaments:
+  1. PLA (Polylactic acid)
+  2. ABS (Acrylonitrile Butadiene styrene)
+  
+  PLA and ABS are both thermoplastics. PLA is stronger and stiffer than ABS, but poor heat-resistance properties means PLA is mostly a hobbyist material. ABS is weaker less rigid, but also tougher and lighter, making it a better plastic for prototyping applications.
+
+  We will be working with the PLA Filament.
+  And these are the PLA parameters we have to keep in mind while creating something in Cura
+  ![](images1/image3D.2.png)
+  
 #### 10.7.3 Installing Cura
   Cura is an open source slicing application for 3D printers.
   For the bootcamp we will be using Cura for 3D printing.
   
   I used this link to install Cura version 5.0.0: https://github.com/Ultimaker/Cura/releases/tag/5.0.0
+  ![](images1/image3D.1.png)
   
+  After installing Cura from the .exe file i choosed the "sing up for free" option.
+  
+  Cura Installed:
+  ![](images1/image3D.3.png)
+  
+#### 10.7.4 Cura settings
