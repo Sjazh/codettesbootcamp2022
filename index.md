@@ -121,4 +121,4 @@ Turns digital 3D models into solid objects by building  them up in layers. The 3
   Cura Installed:
   ![](images1/image3D.3.png)
   
-#### 10.7.4 Cura settings
+#### 10.7.4 Cura settingss
