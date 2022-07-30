@@ -122,3 +122,10 @@ Turns digital 3D models into solid objects by building  them up in layers. The 3
   ![](images1/image3D.3.jpg)
   
 #### 10.7.4 Cura settingss
+The first we need to do when after opening Cura after installing is selecting the printer we will be working with. So as I said we will be using the Anycubic(Deltabot) printer so i have to to select the anycubic printer. 
+That can be done by following this:
+  ** SETTINGS → PRINTER → Manage Printer **
+  ![](images1/image3D.4.jpg)
+  
+  After clicking manage printers we have to click on "Add New" and search for the anycubic predator printer in the "Add a non-networked" bar.
+  ![](iimages1/image3D.5.jpg)
