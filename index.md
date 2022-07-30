@@ -71,4 +71,4 @@ There’s an add-on for the Arduino IDE that allows you to program the ESP32 usi
 I used the following instructions to install the ESP32 board in Arduino IDE:
 
 1. In your Arduino IDE, go to File> Preferences and enter the following into the “Additional Board Manager URLs” field:
-   !(image1.png)
+   ![](images/image1.png)
