@@ -85,3 +85,23 @@ I used the following instructions to install the ESP32 board in Arduino IDE:
   
 4. Checking if ESP32 is available 
   ![](images1/image4.png)
+
+  
+### 10.7 3D Printing
+#### 10.7.1 What is 3D printing
+
+Turns digital 3D models into solid objects by building  them up in layers. The 3D printing process turns a whole object into thousands of tiny little slices, then makes  it from the bottom up, slice by slice. Those tiny layers stick together to form a solid object.
+
+#### 10.7.2 3D Printers & Filaments
+  There arre two type of printers:
+  1. ** Anycubic Predator (DeltaBot) ** :is a consumer 3D printer that uses DeltaBot technology (three robotic arms attached to a base). The Deltabot uses a print head     attached to 3 sets of robotic arms to deposit the material.
+  2. ** Anycubic 4 Max Pro **: Enclosed Printing space with larger build volume enhance the printing quality, out of box, no need assemble, optional auto power off feature is safer for children. Patented printing platform with excellent adhesion whilst printing and pop off once it cools down. The sensor triggers the machine to pause prints and set off an alarm when filament run out.
+
+  We will be 3D printing with the Anycubic Predator (Deltabot)
+  
+#### 10.7.3 Installing Cura
+  Cura is an open source slicing application for 3D printers.
+  For the bootcamp we will be using Cura for 3D printing.
+  
+  I used this link to install Cura version 5.0.0: https://github.com/Ultimaker/Cura/releases/tag/5.0.0
+  
