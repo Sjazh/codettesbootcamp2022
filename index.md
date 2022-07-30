@@ -128,4 +128,4 @@ That can be done by following this:
   ![](images1/image3D.4.jpg)
   
   After clicking manage printers we have to click on "Add New" and search for the anycubic predator printer in the "Add a non-networked" bar.
-  ![](iimages1/image3D.5.jpg)
+  ![](images1/image3D.5.jpg)
