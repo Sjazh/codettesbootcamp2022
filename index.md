@@ -127,5 +127,5 @@ That can be done by following this:
   ** SETTINGS → PRINTER → Manage Printer **
   ![](images1/image3D.4.jpg)
   
-  After clicking manage printers we have to click on "Add New" and search for the anycubic predator printer in the "Add a non-networked" bar.
+  After clicking manage printers we have to click on "Add New" and search for the anycubic predator printer in the "Add a non-networked" bar and than click on "Add".
   ![](images1/image3D.5.jpg)
