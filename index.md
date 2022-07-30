@@ -107,7 +107,7 @@ Turns digital 3D models into solid objects by building  them up in layers. The 3
 
   We will be working with the PLA Filament.
   And these are the PLA parameters we have to keep in mind while creating something in Cura
-  ![](images1/image3D.2.png)
+  ![](images1/image3D.2.jpg)
   
 #### 10.7.3 Installing Cura
   Cura is an open source slicing application for 3D printers.
@@ -119,6 +119,6 @@ Turns digital 3D models into solid objects by building  them up in layers. The 3
   After installing Cura from the .exe file i choosed the "sing up for free" option.
   
   Cura Installed:
-  ![](images1/image3D.3.png)
+  ![](images1/image3D.3.jpg)
   
 #### 10.7.4 Cura settingss
