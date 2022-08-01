@@ -130,3 +130,73 @@ That can be done by following this:
   
   After clicking manage printers we have to click on "Add New" and search for the anycubic predator printer in the "Add a non-networked" bar and than click on "Add".
   ![](images1/image3D.5.jpg)
+  
+ 2. Machine Settings
+  Now we have to check if we have the correct dimensions for the X,Y an Z directions . If not than you should probably have a wrong version of cura or another printer installed.
+  We should have the following dimensions:
+  X = 370
+  Y = 370
+  Z = 455
+  It is very important to check these dimensions cause while 3D printing the nozzle moves from top to bottom and if the dimensions are incorrect there are chances that the nozzle can break if it goes down too hard. And if the nozzles is broken the whole machine is ruined.
+  
+  That can be done by following this:
+  ** SETTINGS → PRINTER → Manage Printer → Machine settings **
+  ![](images1/image3D.6.png)
+  
+  3. Default Settings
+  Now we have to check all the PLA Parameters in the print settings. In the image below there are already some settings done but to check all of them we have to press on the "custom" button.
+  ![](images1/image3D.7.png)
+
+  After pressing on custom there appears a list of parameters. 
+  We will begin with the first one.
+  
+  Based on what profile you have selected if will give you the default parameters.
+  Right now we have selected "normal"
+  ![](images1/image3D.8.png)
+  
+  Quality:
+  * Layer height:  0.2 mm
+  ![](images1/image3D.9.png)
+  
+  Walls:
+  * Wall thickness: 0.8 - 1.2 mm
+  ![](images1/image3D.10.png)
+  
+  Infill:
+  Infill density: 20%
+  Infill pattern: you can select any pattern 
+  ![](images1/image3D.11.png)
+  
+  Material:
+  Printing temperature: 200
+  Build plate temperature: 60
+  ![](images1/image3D.12.png)
+  
+  Speed:
+  Print speed: 60m/s
+  ![](images1/image3D.13.png)
+  
+  Travel:
+  We have to enable retraction here
+  ![](images1/image3D.14.png)
+  
+  Cooling:
+  We have to enable print cooling here
+  ![](images1/image3D.15.png)
+  
+  Support:
+  Support type: Everywhere
+  ![](images1/image3D.16.png)
+  
+  Build plate adhesion:
+  Build plate adhesion type: Brim
+  ![](images1/image3D.17.png)
+  
+  
+  These are all the parameters we have to check before printing.
+  But once you have the profile selected there is no need to go and check each of the parameters.
+  The parameters that are very important to check are:
+  1. Support
+  2. Cooling fan on
+  
+  
