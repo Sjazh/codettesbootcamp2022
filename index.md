@@ -155,41 +155,50 @@ Right now we have selected "normal"
 ![](images1/image3D.8.png)
   
 Quality:
-* Layer height:  0.2 mm
+Layer height:  0.2 mm
+  
 ![](images1/image3D.9.png)
   
 Walls:
-* Wall thickness: 0.8 - 1.2 mm
+Wall thickness: 0.8 - 1.2 mm
+  
 ![](images1/image3D.10.png)
   
 Infill:
 Infill density: 20%
 Infill pattern: you can select any pattern 
+  
 ![](images1/image3D.11.png)
   
 Material:
 Printing temperature: 200
 Build plate temperature: 60
+  
 ![](images1/image3D.12.png)
   
 Speed:
 Print speed: 60m/s
+  
 ![](images1/image3D.13.png)
   
 Travel:
-We have to enable retraction here
+We have to enable retraction here 
+
 ![](images1/image3D.14.png)
   
 Cooling:
 We have to enable print cooling here
+  
 ![](images1/image3D.15.png)
   
 Support:
 Support type: Everywhere
+  
 ![](images1/image3D.16.png)
   
 Build plate adhesion:
 Build plate adhesion type: Brim
+  
 ![](images1/image3D.17.png)
   
   
