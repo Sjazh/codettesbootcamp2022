@@ -198,7 +198,7 @@ Support type: Everywhere
   
 Build plate adhesion:
 Build plate adhesion type: Brim
-  
+ 
 ![](images1/image3D.17.png)
   
   
@@ -209,3 +209,31 @@ The parameters that are very important to check are:
   2. Cooling fan on
   
   
+#### 10.7.5 3D Printing Preparations
+First we have to design something so that we can 3D print it.
+So I used tinkercad for the 3D designing and I designed a cute butterfly keychain.
+![](images1/image3D.18.png)
+  
+To be able to use this design in Cura we have to export the design as a .STL file and save it anywhere.
+I named it Keychain.stl saved the file in a new folder called 3D printing
+![](images1/image3D.19.png)
+  
+Now to 3D print my design i have to open the .STL file in Cura.
+** FILES → Open File(s) ** 
+![](images1/image3D.20.png)
+  
+By clicking on "Open file(s)" a tab will appear where you can selct and open your .STL File.
+![](images1/image3D.21.png)
+  
+After opening your .STL file your design should appear on the build plate
+![](images1/image3D.22.png)
+
+And after pressing the "Slice" button at the bottom in the right corner your design will be cutted in slices and it will tell you how long it will take to print your design(Time) and how much filament it will use to print it(gram and meters).
+![](images1/image3D.23.png) 
+  
+The next step is to make some adjustment before printing.
+- Scale
+- Rotate
+- Lay Flat (Make sure your print is flat. It makes a big difference when printing)
+  
+
