@@ -72,7 +72,8 @@ I used the following instructions to install the ESP32 board in Arduino IDE:
 
 1. In your Arduino IDE, go to File> Preferences and enter the following into the “Additional Board Manager URLs” field:
    https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
-   ![](images1/image1.png)
+   
+  ![](images1/image1.png)
   
   
 2. Open the Boards Manager. Go to Tools > Board > Boards Manager…
