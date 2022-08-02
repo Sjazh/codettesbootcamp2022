@@ -219,7 +219,9 @@ I named it Keychain.stl saved the file in a new folder called 3D printing
 ![](images1/image3D.19.png)
   
 Now to 3D print my design i have to open the .STL file in Cura.
+
 ** FILES → Open File(s) ** 
+
 ![](images1/image3D.20.png)
   
 By clicking on "Open file(s)" a tab will appear where you can selct and open your .STL File.
