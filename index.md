@@ -148,6 +148,7 @@ That can be done by following this:
 3. Default Settings
 
 Now we have to check all the PLA Parameters in the print settings. In the image below there are already some settings done but to check all of them we have to press on the "custom" button.
+  
 ![](images1/image3D.7.png)
 
 After pressing on custom there appears a list of parameters. 
