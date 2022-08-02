@@ -232,8 +232,21 @@ And after pressing the "Slice" button at the bottom in the right corner your des
 ![](images1/image3D.23.png) 
   
 The next step is to make some adjustment before printing.
-- Scale
-- Rotate
+- Scale (Important to get the exact dimensions)
+- Rotate (can rotate in any direction)
 - Lay Flat (Make sure your print is flat. It makes a big difference when printing)
+![](images1/image3D.24.png)  
   
+Now the object is finished for printing and we must press the "Save to disk" button which will save the object as a gcode file.
+
+G-code stands for “geometric code,” and it tells the machine how to move. 
+It relates to the geographical coordinates of the machine arm so that it knows how and where to move.
+
+![](images1/image3D.25.png)  
+
+If i open the g.code file in brackets it looks like the image below.
+It is a very long code
+
+![](images1/image3D.26.png)   
+
 
