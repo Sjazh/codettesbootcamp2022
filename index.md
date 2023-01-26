@@ -306,7 +306,7 @@ Managing:
   
   Download Link for Cura: https://ultimaker.com/software/ultimaker-cura
  
- #####Production
+ ##### Production
   For the 3D printing we will use the "Anycubic 4 Max Pro" printer
   How to use:
   - Insert SD card on left side (upside down)
