@@ -129,13 +129,53 @@ It is a template that defines the business - specifically, how each section inte
 #####  Template Business Model Canvas
  ![](images1/BMC.jpg)
 
-#####  Final Project BMC
+#####  Final Project BMC (Concept)
+  
  ![](images1/BMC2.jpg)
+  
 8 augustus 2022
 
-FINAL BMC
+#### FINAL BMC
+  
  ![](images1/BMC3.jpg)
+  
 24 januari 2023
+  
+#### 10.3.2 Setup project PitchDeck
+##### What is a PitchDeck
+A pitch deck, also known as a slide deck or start-up deck, is a presentation that provides a brief but informative overview of your business. It should cover the key points of your business plan, the products and services you provide, high-level financial projections, and funding needs.
+  
+Your pitch deck should work well on its own as a visual document, but it will primarily be used as a tool to tell the story of your business.
+  
+##### Things to include in your pitchdeck
+  - Introduction
+  - Problem
+  - Solution
+  - Product Features
+  - Timing
+  - Business Model Canvas (Value proposition)
+  - Cost Price
+  - Next Steps
+  - Demo Project
+  - Team
+
+  Here is the link to my Project Pitchdeck: https://docs.google.com/presentation/d/1Zl2cTAf2jirbQVbZogcGsasVaAwgvvFysw9H8CzQDHk/edit?usp=sharing
+
+#### 10.3.3 Project poster
+##### What is a Project Poster?
+  The project poster template helps you solve complex problems or tackle projects with unknowns.It is usually a mixture of a brief text mixed with tables, graphs,     pictures, and other presentation formats
+  
+- Project title and sub-title on top
+- Explains your project intro/problem
+- Shows your solution (pictures /schema / design)
+- Shows impact /charts / graphs
+- Plenty visuals of your project
+- Cases + pictures
+- It should attract visitors to visit your booth
+- Team & future planning
+  
+ ##### My Project Poster:
+   ![](images1/BMC4.jpg)
 
   
 ### 10.7 3D Printing
