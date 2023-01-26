@@ -88,6 +88,56 @@ I used the following instructions to install the ESP32 board in Arduino IDE:
   ![](images1/image4.png)
 
   
+  
+
+  
+### 3. Business Model Canvas, Pitch & Poster
+Objectives
+Wk 1
+[ ] Setup your BMC for final project
+[ ] Setup Pitch Deck
+[ ] Create project poster
+[ ] Add Screenshots and description of the process of creation. 
+[ ] Describe the design & programming steps
+[ ] Screenshots or video of your Prototype/app working
+[ ] Describe any errors or problems with the process and how you fixed them. 
+[ ] Include all the files you created for download. 
+
+
+#### 3.1 Setup project BMC
+##### 3.1.1 What is a Business Model Canvas?
+A business model canvas is a visual representation of a business model, highlighting all key strategic factors. In other words, it is a general, holistic and complete overview of the company’s workings, customers, revenue streams and more.
+Canvas were initially proposed in 2005 by Alexander Osterwalder
+
+##### 3.1.2 What’s the purpose of the Business Model Canvas?
+
+Other than providing a general overview of the business model, these canvases enable companies to visualize and analyze their strategy. This includes updating the model as the company evolves, such as changes in the market, new streams or expansions. 
+
+It is a template that defines the business - specifically, how each section interacts with the others. For example, understanding the value proposition, the target customer and the channels through which they are engaged all need to be analyzed together, not just in individual vacuums.
+
+##### 3.1.3 Element of the Business Model Canvas
+- Value Proposition
+- Customer Relationship
+- Customer Segments
+- Channels
+- Key Partners
+- Key Activities
+- Key Resources
+- Cost Structure
+- Revenue Stream
+
+##### 3.1.4 Template Business Model Canvas
+
+
+##### 3.1.5 Final Project BMC
+
+	8 augustus 2022
+
+FINAL BMC
+
+24 januari 2023
+
+  
 ### 10.7 3D Printing
 #### 10.7.1 What is 3D printing
 
