@@ -245,6 +245,33 @@ To select the right units open freecad and :
   ![](images1/CAD10.jpg)
   ![](images1/CAD11.jpg)
 
+  
+##### Convert 2D -> 3D
+  In Freecad it is also possible toconvert the 2D designs to 3D designs. To do so please follow the following steps:
+  - Select Part Design on Workbench
+  - Select Top view
+  - Select PAD
+  - 2D object  convert to 3D 
+  - You can than rotate to see sides
+  
+  ![](images1/CAD12.jpg)
+  ![](images1/CAD13.jpg)
+  ![](images1/CAD14.jpg)
+  ![](images1/CAD15.jpg)
+
+##### Prepare STL.Mesh File
+  - Select Model 
+  - Select Pad
+  - Select file 
+  - Export 
+  - STL Mesh 
+  - Save file
+  
+   ![](images1/CAD16.jpg)
+   ![](images1/CAD17.jpg)
+
+
+
 
 
 
@@ -252,6 +279,7 @@ To select the right units open freecad and :
 ##### What is inkscape?
 Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format. Other formats can be imported and exported.
 
+##### 
 Download link FreeCad: https://wiki.freecadweb.org/Download
   
 Download link Inkscape: https://inkscape.org/release/1.1/windows/64-bit/
