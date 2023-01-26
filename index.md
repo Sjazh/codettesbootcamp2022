@@ -272,9 +272,6 @@ To select the right units open freecad and :
 
 
 
-
-
-
 #### 10.4.2 Inkscape
 ##### What is inkscape?
 Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format. Other formats can be imported and exported.
@@ -284,6 +281,43 @@ Download link FreeCad: https://wiki.freecadweb.org/Download
   
 Download link Inkscape: https://inkscape.org/release/1.1/windows/64-bit/
 
+
+### 10.5 Computer Aided Manufacturing (CAM)
+#### What is CAM?
+  Computer Aided Manufacturing (CAM) is the use of software and computer-controlled machinery to automate a manufacturing process.
+  Process of creating Machine Instructions (GCode) from CAD files. 
+Managing:
+- Materials / Stocks
+- Tools (mills) & Utilities (cooling)
+- Object placement / efficiency
+- Operations (type of cuts)
+- Production rates (Feeds & Speed)
+- Extras (tabs, bones)
+- !! Machine constraints !!
+  
+ #### CAM -  for 3D printing
+- Download and install Cura
+- Import STL (drag/drop)
+- Resize and place parts
+- Select printer, printer filament material & print settings
+- Slice & Save gcode file to SD card
+  
+  (CAM - for 3D Printing will be discussed latter in chapter 10.7)
+  
+  Download Link for Cura: https://ultimaker.com/software/ultimaker-cura
+ 
+ #####Production
+  For the 3D printing we will use the "Anycubic 4 Max Pro" printer
+  How to use:
+  - Insert SD card on left side (upside down)
+  - Start printer
+  - Select “print” scroll to file of print (gcode file)
+  - Print and wait (printer will heat up first before starting)
+  
+  ![](images1/CAM1.jpg)
+
+#### CAM -  for CNC milling/cutting
+  
 ### 10.7 3D Printing
 #### 10.7.1 What is 3D printing
 
