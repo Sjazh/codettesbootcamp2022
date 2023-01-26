@@ -127,14 +127,14 @@ It is a template that defines the business - specifically, how each section inte
 - Revenue Stream
 
 #####  Template Business Model Canvas
-
+ ![](images1/BMC.jpg)
 
 #####  Final Project BMC
-
+ ![](images1/BMC2.jpg)
 8 augustus 2022
 
 FINAL BMC
-
+ ![](images1/BMC3.jpg)
 24 januari 2023
 
   
