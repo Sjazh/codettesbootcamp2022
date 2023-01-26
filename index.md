@@ -93,7 +93,7 @@ I used the following instructions to install the ESP32 board in Arduino IDE:
   
 ### 10.3 Business Model Canvas, Pitch & Poster
 Objectives
-Wk 1
+
 - Setup your BMC for final project
 - Setup Pitch Deck
 - Create project poster
@@ -175,7 +175,7 @@ Your pitch deck should work well on its own as a visual document, but it will pr
 - Team & future planning
 
 
-My Project Poster:
+##### My Project Poster:
   
    ![](images1/BMC4.jpg)
 
@@ -183,7 +183,30 @@ My Project Poster:
   
   
   
-##### My project poster
+### 10.4 Computer Aided Design (CAD)
+Objectives
+- Freecad
+- Inkscape
+- OpenSCad
+
+#### 10.4.1 FreeCad
+##### What is FreeCad?
+FreeCAD is a general-purpose parametric 3D computer-aided design (CAD) modeler and a building information modeling (BIM) software application with finite element method (FEM) support.[3] It is intended for mechanical engineering product design but also expands to a wider range of uses around engineering, such as architecture or electrical engineering. 
+  
+##### Install Freecad 0.20.0
+  
+   ![](images1/CAD1.jpg)
+
+##### Select the units
+Open freecad and 
+
+#### 10.4.2 Inkscape
+##### What is inkscape?
+Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format. Other formats can be imported and exported.
+
+Download link FreeCad: https://wiki.freecadweb.org/Download
+Download link Inkscape: https://inkscape.org/release/1.1/windows/64-bit/
+
 ### 10.7 3D Printing
 #### 10.7.1 What is 3D printing
 
