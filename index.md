@@ -205,6 +205,7 @@ Open freecad and
 Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format. Other formats can be imported and exported.
 
 Download link FreeCad: https://wiki.freecadweb.org/Download
+  
 Download link Inkscape: https://inkscape.org/release/1.1/windows/64-bit/
 
 ### 10.7 3D Printing
