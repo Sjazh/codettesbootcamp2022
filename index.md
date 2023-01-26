@@ -173,8 +173,9 @@ Your pitch deck should work well on its own as a visual document, but it will pr
 - Cases + pictures
 - It should attract visitors to visit your booth
 - Team & future planning
-  
- ##### My Project Poster:
+
+
+##### My Project Poster:
   
    ![](images1/BMC4.jpg)
 
