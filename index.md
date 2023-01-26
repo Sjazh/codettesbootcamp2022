@@ -192,13 +192,61 @@ Objectives
 #### 10.4.1 FreeCad
 ##### What is FreeCad?
 FreeCAD is a general-purpose parametric 3D computer-aided design (CAD) modeler and a building information modeling (BIM) software application with finite element method (FEM) support.[3] It is intended for mechanical engineering product design but also expands to a wider range of uses around engineering, such as architecture or electrical engineering. 
+  Links of some Tutorial videos:
+  - https://youtu.be/7L1IbjEofCU
+  - https://youtu.be/Ii5YXgDEegU
+  - https://youtu.be/hdXk_mR7A5Q
+  - https://youtu.be/9mQFbBNJJpQ
   
 ##### Install Freecad 0.20.0
   
    ![](images1/CAD1.jpg)
 
-##### Select the units
-Open freecad and 
+##### Select the units (standard(mm/kg/s/degree)
+To select the right units open freecad and :
+  - View the menu items.
+  - Select "Edit" and then Preferences
+  - Select General -> Units -> standard(mm/kg/s/degree) -> OK
+  
+  ![](images1/CAD2.jpg)
+  ![](images1/CAD3.jpg)
+  
+##### Create Design
+  To finally start creating your own design follow the steps:
+  - Select "START" from Workbench
+  - Select "Create new project"
+ 
+  ![](images1/CAD4.jpg)
+  
+  - Select "Part Desing"
+  - Select "Create Sketch"
+
+  ![](images1/CAD5.jpg)
+  
+  - Select Plane ->XY Plane
+  
+  ![](images1/CAD6.jpg)
+  
+  - And then Select "Create Rectangle/Circle/....."
+  
+  ![](images1/CAD7.jpg)
+  
+  - Select Constraints to fix horizontal and vertical sides and add your dimensions once it prompts you insert length.
+  
+   ![](images1/CAD8.jpg)
+  
+ ##### Prepare DXF file
+   - Select File
+   - Export
+   - Autodesk DXF 2D
+   - Save file as name.dxf
+  
+  ![](images1/CAD9.jpg)
+  ![](images1/CAD10.jpg)
+  ![](images1/CAD11.jpg)
+
+
+
 
 #### 10.4.2 Inkscape
 ##### What is inkscape?
