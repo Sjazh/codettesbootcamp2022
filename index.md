@@ -175,6 +175,7 @@ Your pitch deck should work well on its own as a visual document, but it will pr
 - Team & future planning
   
  ##### My Project Poster:
+  
    ![](images1/BMC4.jpg)
 
   
